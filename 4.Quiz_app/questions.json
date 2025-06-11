@@ -1,0 +1,52 @@
+[
+    {
+        "question": "What is the capital of France?",
+        "options": ["London", "Berlin", "Paris", "Rome"],
+        "answer": "Paris"
+    },
+    {
+        "question": "Which language is used for web development?",
+        "options": ["Python", "HTML", "C++", "Java"],
+        "answer": "HTML"
+    },
+    {
+        "question": "What is 5 + 7?",
+        "options": ["10", "12", "14", "11"],
+        "answer": "12"
+    },
+    {
+        "question": "Which planet is known as the Red Planet?",
+        "options": ["Earth", "Mars", "Jupiter", "Venus"],
+        "answer": "Mars"
+    },
+    {
+        "question": "Who wrote 'Romeo and Juliet'?",
+        "options": ["Charles Dickens", "William Shakespeare", "Mark Twain", "Leo Tolstoy"],
+        "answer": "William Shakespeare"
+    },
+    {
+        "question": "What is the square root of 64?",
+        "options": ["6", "8", "7", "9"],
+        "answer": "8"
+    },
+    {
+        "question": "Which of the following is a Python web framework?",
+        "options": ["React", "Angular", "Flask", "Django"],
+        "answer": "Django"
+    },
+    {
+        "question": "What is the boiling point of water at sea level?",
+        "options": ["90°C", "100°C", "110°C", "120°C"],
+        "answer": "100°C"
+    },
+    {
+        "question": "Which number comes next in the sequence: 2, 4, 8, 16, __?",
+        "options": ["18", "24", "32", "20"],
+        "answer": "32"
+    },
+    {
+        "question": "Which device is used to measure temperature?",
+        "options": ["Thermometer", "Barometer", "Hygrometer", "Altimeter"],
+        "answer": "Thermometer"
+    }
+]
