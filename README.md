@@ -31,6 +31,12 @@ Generates strong and secure passwords using Python’s `random` module. Customiz
 ### 8. 💬 Chatbot (Rule-Based)
 Implements a simple rule-based chatbot that responds to user inputs using predefined logic. Introduces basic NLP logic and conditional flows.
 
+### 9. 🎲 Number Guessing Game
+A fun console-based game where the user guesses a randomly generated number. Great for practicing loops, conditionals, and user input.
+
+### 10. ⏰ Digital Clock (Tkinter GUI)
+A GUI-based digital clock that displays the current time (and date). Demonstrates Tkinter, labels, and updating GUI elements dynamically.
+
 ---
 
 ## 🛠️ Tools & Technologies
